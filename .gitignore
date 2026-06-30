@@ -1,0 +1,16 @@
+# Raw/intermediate data (large, get from Kaggle - see README)
+*.csv
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
